@@ -201,10 +201,11 @@ python app.py
 
 # 👥 Team
 
-| Role | Name |
-|------|------|
-| Team Lead | **Boddu Siri** |
-| Team Member | Valluru Pujitha |
+*Sravani Metla(team lead)
+Vempati Sai Sneha Priya
+Rejawana Metla
+Chittari Datta Priya
+Gali Prathiksha
 
 ---
 
