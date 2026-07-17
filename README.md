@@ -201,12 +201,11 @@ python app.py
 
 # 👥 Team
 
-*Sravani Metla(team lead)
-Vempati Sai Sneha Priya
-Rejawana Metla
-Chittari Datta Priya
-Gali Prathiksha
-
+* Sravani Metla (Team Lead)
+* Vempati Sai Sneha Priya
+* Rejawana Metla
+* Chittari Datta Priya
+* Gali Prathiksha
 ---
 
 # 🎓 Academic Information
